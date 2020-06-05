@@ -2,11 +2,13 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-存放 LearnWeb 資產的地方。
+LearnWeb Taiwan Assets
 
 ## License
 
-[MIT](https://github.com/LearnWeb-Taiwan/Assets/blob/master/LICENSE)
+<img width="100" src="https://github.com/LearnWeb-Taiwan/Assets/blob/master/cc-by-nc-nd.png?raw=true" alt="LearnWeb Taiwan logo">
+    
+本專案為保護底下檔案資產採 [BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/3.0/tw/) 之授權，且內部圖片、照片仍具有肖像權，須各別向其所有人告知並取得同意後方能公開使用。
 
 Copyright (c) 2020-present, LearnWeb Taiwan
 
